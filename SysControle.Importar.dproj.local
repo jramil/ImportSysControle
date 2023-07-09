@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/03/18 10:15:26.000.638,=C:\Users\DeveloperFNW\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/18 10:20:00.000.154,=C:\Users\DeveloperFNW\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/18 10:30:56.000.935,=C:\Users\DeveloperFNW\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/18 10:32:54.000.138,=C:\Users\DeveloperFNW\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/18 11:13:03.000.045,=C:\Users\DeveloperFNW\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/07/06 23:26:23.000.529,=C:\Users\DeveloperFNW\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/07/06 23:27:23.000.701,C:\Projetos\Conversor\ImportaGestor\SysContrele.Primcipal.pas=C:\Users\DeveloperFNW\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/07/06 23:27:23.000.701,C:\Projetos\Conversor\ImportaGestor\SysContrele.Primcipal.dfm=C:\Users\DeveloperFNW\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/07/06 23:27:40.000.436,C:\Projetos\Conversor\ImportaGestor\SysControle.Importar.dproj=C:\Users\DeveloperFNW\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/07/06 23:29:39.000.170,=C:\Projetos\Conversor\ImportaGestor\Unit1.pas</Transaction>
+    <Transaction>2023/07/06 23:30:30.000.498,C:\Projetos\Conversor\ImportaGestor\src\Model\uDm.pas=C:\Projetos\Conversor\ImportaGestor\Unit1.pas</Transaction>
+    <Transaction>2023/07/06 23:30:30.000.498,C:\Projetos\Conversor\ImportaGestor\src\Model\uDm.dfm=C:\Projetos\Conversor\ImportaGestor\Unit1.dfm</Transaction>
+    <Transaction>2023/07/06 23:30:58.000.358,C:\Projetos\Conversor\ImportaGestor\src\View\SysControle.Principal.dfm=C:\Projetos\Conversor\ImportaGestor\SysContrele.Primcipal.dfm</Transaction>
+    <Transaction>2023/07/06 23:30:58.000.358,C:\Projetos\Conversor\ImportaGestor\src\View\SysControle.Principal.pas=C:\Projetos\Conversor\ImportaGestor\SysContrele.Primcipal.pas</Transaction>
+    <Transaction>2023/07/06 23:31:36.000.029,C:\Projetos\Conversor\ImportaGestor\src\SysControle.Principal.pas=C:\Projetos\Conversor\ImportaGestor\src\View\SysControle.Principal.pas</Transaction>
+    <Transaction>2023/07/06 23:31:36.000.029,C:\Projetos\Conversor\ImportaGestor\src\SysControle.Principal.dfm=C:\Projetos\Conversor\ImportaGestor\src\View\SysControle.Principal.dfm</Transaction>
+    <Transaction>2023/07/07 00:04:22.000.014,=C:\Projetos\Conversor\ImportaGestor\Unit1.pas</Transaction>
+    <Transaction>2023/07/07 00:04:44.000.170,C:\Projetos\Conversor\ImportaGestor\src\Model\uDmDestino.pas=C:\Projetos\Conversor\ImportaGestor\Unit1.pas</Transaction>
+    <Transaction>2023/07/07 00:04:44.000.170,C:\Projetos\Conversor\ImportaGestor\src\Model\uDmDestino.dfm=C:\Projetos\Conversor\ImportaGestor\Unit1.dfm</Transaction>
+    <Transaction>2023/07/07 00:05:14.000.498,C:\Projetos\Conversor\ImportaGestor\src\Model\uDmOrigem.dfm=C:\Projetos\Conversor\ImportaGestor\src\Model\uDm.dfm</Transaction>
+    <Transaction>2023/07/07 00:05:14.000.498,C:\Projetos\Conversor\ImportaGestor\src\Model\uDmOrigem.pas=C:\Projetos\Conversor\ImportaGestor\src\Model\uDm.pas</Transaction>
+    <Transaction>2023/07/08 18:53:23.238,=C:\Projetos\Conversor\ImportaGestor\src\Controler\Classes\Classe.Conexao.pas</Transaction>
+    <Transaction>2023/07/08 18:59:25.129,=C:\Projetos\Conversor\ImportaGestor\src\Controler\Units\unit_parametros_funcoes.pas</Transaction>
+    <Transaction>2023/07/08 19:01:27.223,=C:\Projetos\Conversor\ImportaGestor\src\Controler\Units\unit_central_mensagens.pas</Transaction>
+    <Transaction>2023/07/08 19:03:17.457,=C:\Projetos\Conversor\ImportaGestor\src\Controler\Units\unit_configurar_servidor.pas</Transaction>
+    <Transaction>2023/07/08 19:03:49.363,=C:\Projetos\Conversor\ImportaGestor\src\Controler\Units\unit_dados.pas</Transaction>
+  </Transactions>
+</BorlandProject>
